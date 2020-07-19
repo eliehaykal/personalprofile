@@ -13,3 +13,154 @@
 .bg-4{
     background-color: #94c4f0;
 }
+
+.sectionTitle-red{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
+    color: #fa4b4b;
+    text-decoration: underline;
+}
+
+.sectionTitle-white{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: #eeeeee;
+    background-color: #fa4b4b;
+    text-decoration: underline;
+    /* letter-spacing: 0.1em; */
+    /* font-family: 'Titillium Web', sans-serif; */
+    /* font-family: 'IBM Plex Serif', serif; */
+    font-family: 'Karla', sans-serif;
+}
+
+.tech-skill-title-cell{
+    justify-content: left;
+    padding: 20px;
+    font-size: 1.1em;
+    font-family: 'Karla', sans-serif;
+    text-transform: uppercase;
+    align-items: center;
+    padding-left: 130px;
+}
+
+.tech-skill-title-cell-title{
+    padding: 10px 10px;
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    margin-top: 5px;    
+}
+
+.tech-skill-description{
+    padding: 5px 100px;
+    text-align: justify;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+/* Personal Skills */
+.icon-color{
+    color: #da5757;
+}
+
+.skill-text{
+    font-weight: 600;
+    font-style: italic;
+    padding-left: 10px;
+}
+
+.personal-skill-cell{
+    padding: 10px 100px;
+    
+}
+
+/* Vendors */
+.img-resize{
+    /* padding: 5px; */
+    width: 50%;
+    height: 50%;
+}
+
+td{
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+th{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+table{
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-family: 'Titillium Web', sans-serif;
+}
+/* certifications  */
+
+/* th{
+    background-color: #e6b0b0;
+    color: #3c3e3f;
+    text-align: center;
+} */
+
+.progress{
+    width: 75%;
+}
+
+.languages{
+    padding: 25px 50px;
+}
+
+/* Hobbies */
+.hobbytext{
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+.hobbylogo{
+    margin: 10px;
+}
+
+.row-hobby{
+    padding-left: 30px;
+}
+
+.hobbylogonature{
+    color: #20b2aa;
+}
+
+.hobbylogotech{
+    color: #7020b2;
+}
+
+.hobbylogomusic{
+    color: #f3b15c;
+}
+
+.hobbylogocinema{
+    color: #ff7c7c;
+}
+
+
+/* cards */
+.card{
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-weight: 700;
+    display: flex;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.card-title{
+    font-size: 1.2rem;
+}

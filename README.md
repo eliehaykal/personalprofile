@@ -1,4 +1,4 @@
-# personalcv
+# Personal Profile
 
 CV done in CSS Grid
 

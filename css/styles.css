@@ -1,0 +1,221 @@
+.bg-1{
+    background-color: rgba(0, 107, 149, 0.52);
+
+}
+
+.bg-2{
+    background-color: #f09494;
+}
+
+.bg-3{
+    background-color: #94f0a0;
+}
+
+.bg-4{
+    background-color: #94c4f0;
+}
+
+/* Image and Intro */
+.intro{
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 2em;
+    padding: 200px 0px 0px 0px;
+    margin: 0px;
+    font-weight: 300;
+}
+
+.intro-title{
+       /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+       font-family: 'Source Sans Pro', sans-serif; 
+       font-size: 2em; 
+       padding: 0px;
+       margin: 0px;
+       font-weight: 300;
+}
+
+.intro-description{
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 1em;
+    padding: 0px;
+    padding: 0px 100px 0px 0px;
+    /* font-weight: 400;
+    display:inline-block;
+    width: 400px; */
+}
+
+.name{
+    font-weight: 800;
+    color: lightyellow;
+}
+
+.social > a > img{
+    width: 32px;
+    height: 32px;
+    
+}
+
+.socialicons{
+    margin-top: 50px;
+}
+
+.sectionTitle-red{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
+    color: #fa4b4b;
+    text-decoration: underline;
+}
+
+.sectionTitle-white{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: #eeeeee;
+    background-color: #fa4b4b;
+    text-decoration: underline;
+    /* letter-spacing: 0.1em; */
+    /* font-family: 'Titillium Web', sans-serif; */
+    /* font-family: 'IBM Plex Serif', serif; */
+    font-family: 'Karla', sans-serif;
+}
+
+.tech-skill-title-cell{
+    justify-content: left;
+    padding: 20px;
+    font-size: 1.1em;
+    font-family: 'Karla', sans-serif;
+    text-transform: uppercase;
+    align-items: center;
+    padding-left: 130px;
+}
+
+.tech-skill-title-cell-title{
+    padding: 10px 10px;
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    margin-top: 5px;    
+}
+
+.tech-skill-description{
+    padding: 5px 100px;
+    text-align: justify;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+/* Personal Skills */
+.icon-color{
+    color: #da5757;
+}
+
+.skill-text{
+    font-weight: 600;
+    font-style: italic;
+    padding-left: 10px;
+}
+
+.personal-skill-cell{
+    padding: 10px 100px;
+    
+}
+
+/* Vendors */
+.img-resize{
+    /* padding: 5px; */
+    width: 50%;
+    height: 50%;
+}
+
+td{
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+th{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+table{
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-family: 'Titillium Web', sans-serif;
+}
+/* certifications  */
+
+/* th{
+    background-color: #e6b0b0;
+    color: #3c3e3f;
+    text-align: center;
+} */
+
+.progress{
+    width: 75%;
+}
+
+.languages{
+    padding: 25px 50px;
+}
+
+/* Other Achievements */
+.other-achievements{
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 1.5em; 
+    padding-top: 50px;
+    margin: 0px;
+    font-weight: 300;
+}
+
+/* Hobbies */
+.hobbytext{
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+.hobbylogo{
+    margin: 10px;
+}
+
+.row-hobby{
+    padding-left: 30px;
+}
+
+.hobbylogonature{
+    color: #20b2aa;
+}
+
+.hobbylogotech{
+    color: #7020b2;
+}
+
+.hobbylogomusic{
+    color: #f3b15c;
+}
+
+.hobbylogocinema{
+    color: #ff7c7c;
+}
+
+
+/* cards */
+.card{
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-weight: 700;
+    display: flex;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.card-title{
+    font-size: 1.2rem;
+}

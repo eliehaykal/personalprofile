@@ -1,5 +1,5 @@
 # Personal Profile
 
-CV done in CSS Grid
+Coded using HTML/CSS/BS4
 
 Link: https://eliehaykal.github.io/personalprofile/
